@@ -4,21 +4,21 @@
 # How do I Tinker?
 1. Using the Command Line
    - Assuming Git is installed on your device, in the Command Terminal, run:
-     '$git clone https://github.com/vim/vim.git'
+     `$git clone https://github.com/vim/vim.git`
    - Then:
      `$cd vim/src`
    - And lastly:
-     '$make'
+     `$make`
 
-2. Using the Command Terminal '$cd' to your prefered working directory
+2. Using the Command Terminal `$cd` to your prefered working directory
    - Enter:
-     '$vim yourFileName'
+     `$vim yourFileName`
 
 3. Copy and paste .sh source code from this Git Repo to your open Vim editor
    - Then:
-     ':wq' to save and quit to Command Terminal
+     `:wq` to save and quit to Command Terminal
    - Finally:
-     '$bash yourFileName.sh ./'
+     `$bash yourFileName.sh ./`
    - This will run the script in your current working directory (CWD)
 
 # But What Does it DO?
