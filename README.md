@@ -6,7 +6,7 @@
    - Assuming Git is installed on your device, in the Command Terminal, run:
      '$git clone https://github.com/vim/vim.git'
    - Then:
-     "$cd vim/src"
+     `$cd vim/src`
    - And lastly:
      '$make'
 
