@@ -8,7 +8,7 @@
    - Then:
      '$cd vim/src
    - And lastly:
-     '$make
+     '$make'
 
 2. Using the Command Terminal '$cd' to your prefered working directory
    - Enter:
