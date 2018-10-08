@@ -1,1 +1,1 @@
-# bash_list_empty_dir
+# Bash to List Directory Contents and Check for Empty Dir
