@@ -1,0 +1,1 @@
+# bash_list_empty_dir
